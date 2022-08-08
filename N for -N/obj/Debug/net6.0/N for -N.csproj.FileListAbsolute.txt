@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\bin\Debug\net6.0\N for -N.exe
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\bin\Debug\net6.0\N for -N.deps.json
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\bin\Debug\net6.0\N for -N.runtimeconfig.json
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\bin\Debug\net6.0\N for -N.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\bin\Debug\net6.0\N for -N.pdb
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\obj\Debug\net6.0\N for -N.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\obj\Debug\net6.0\N for -N.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\obj\Debug\net6.0\N for -N.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\obj\Debug\net6.0\N for -N.AssemblyInfo.cs
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\obj\Debug\net6.0\N for -N.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\obj\Debug\net6.0\N for -N.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\obj\Debug\net6.0\refint\N for -N.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\obj\Debug\net6.0\N for -N.pdb
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\obj\Debug\net6.0\N for -N.genruntimeconfig.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N for -N\obj\Debug\net6.0\ref\N for -N.dll
