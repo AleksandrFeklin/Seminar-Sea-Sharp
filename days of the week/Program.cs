@@ -2,7 +2,7 @@
 
 Console.WriteLine("Введите номер дня недели");
 
-string numberString = Console.ReadLine();
+string numberString = Console.ReadLine()!;
 
 int number = int.Parse(numberString);
 

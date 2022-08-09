@@ -2,9 +2,9 @@
 
 Console.WriteLine("Введите число");
 
-string numberString = Console.ReadLine();
+string numberString = Console.ReadLine()!;
 
-int number = int.Parse(numberString);
+int number = int.Parse(numberString!);
 
 if(number < 0)
 

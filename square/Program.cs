@@ -7,3 +7,6 @@ int number = int.Parse(numberString!);
 int sgrt = number*number;
 
 Console.WriteLine("Квадрат числа="  + sgrt);
+
+
+//
