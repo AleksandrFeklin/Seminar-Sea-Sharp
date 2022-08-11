@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\bin\Debug\net6.0\10_99.exe
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\bin\Debug\net6.0\10_99.deps.json
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\bin\Debug\net6.0\10_99.runtimeconfig.json
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\bin\Debug\net6.0\10_99.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\bin\Debug\net6.0\10_99.pdb
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\obj\Debug\net6.0\10_99.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\obj\Debug\net6.0\10_99.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\obj\Debug\net6.0\10_99.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\obj\Debug\net6.0\10_99.AssemblyInfo.cs
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\obj\Debug\net6.0\10_99.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\obj\Debug\net6.0\10_99.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\obj\Debug\net6.0\refint\10_99.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\obj\Debug\net6.0\10_99.pdb
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\obj\Debug\net6.0\10_99.genruntimeconfig.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\10_99\obj\Debug\net6.0\ref\10_99.dll

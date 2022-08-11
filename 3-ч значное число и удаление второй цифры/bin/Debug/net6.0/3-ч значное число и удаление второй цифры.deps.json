@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "3-ч значное число и удаление второй цифры/1.0.0": {
+        "runtime": {
+          "3-ч значное число и удаление второй цифры.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3-ч значное число и удаление второй цифры/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

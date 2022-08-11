@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\bin\Debug\net6.0\задача 5.exe
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\bin\Debug\net6.0\задача 5.deps.json
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\bin\Debug\net6.0\задача 5.runtimeconfig.json
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\bin\Debug\net6.0\задача 5.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\bin\Debug\net6.0\задача 5.pdb
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\obj\Debug\net6.0\задача 5.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\obj\Debug\net6.0\задача 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\obj\Debug\net6.0\задача 5.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\obj\Debug\net6.0\задача 5.AssemblyInfo.cs
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\obj\Debug\net6.0\задача 5.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\obj\Debug\net6.0\задача 5.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\obj\Debug\net6.0\refint\задача 5.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\obj\Debug\net6.0\задача 5.pdb
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\obj\Debug\net6.0\задача 5.genruntimeconfig.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\задача 5\obj\Debug\net6.0\ref\задача 5.dll
