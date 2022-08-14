@@ -8,9 +8,9 @@ string? numberString = Console.ReadLine()!;
 int x = int.Parse(numberString);
 int index = 1;
 
-if (x < 0)
+if (x < 1)
 {
-    Console.WriteLine (" Ошибка");
+    Console.WriteLine (" Ошибка: Число должно быть больше  0 " );
    return;
 }
 while (x >= index)
