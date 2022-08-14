@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\obj\Debug\net6.0\XY.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\obj\Debug\net6.0\XY.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\obj\Debug\net6.0\XY.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\obj\Debug\net6.0\XY.AssemblyInfo.cs
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\obj\Debug\net6.0\XY.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\bin\Debug\net6.0\XY.exe
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\bin\Debug\net6.0\XY.deps.json
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\bin\Debug\net6.0\XY.runtimeconfig.json
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\bin\Debug\net6.0\XY.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\bin\Debug\net6.0\XY.pdb
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\obj\Debug\net6.0\XY.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\obj\Debug\net6.0\refint\XY.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\obj\Debug\net6.0\XY.pdb
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\obj\Debug\net6.0\XY.genruntimeconfig.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\XY\obj\Debug\net6.0\ref\XY.dll

@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\bin\Debug\net6.0\N и выдаёт таблицу квадратов.exe
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\bin\Debug\net6.0\N и выдаёт таблицу квадратов.deps.json
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\bin\Debug\net6.0\N и выдаёт таблицу квадратов.runtimeconfig.json
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\bin\Debug\net6.0\N и выдаёт таблицу квадратов.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\bin\Debug\net6.0\N и выдаёт таблицу квадратов.pdb
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\obj\Debug\net6.0\N и выдаёт таблицу квадратов.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\obj\Debug\net6.0\N и выдаёт таблицу квадратов.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\obj\Debug\net6.0\N и выдаёт таблицу квадратов.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\obj\Debug\net6.0\N и выдаёт таблицу квадратов.AssemblyInfo.cs
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\obj\Debug\net6.0\N и выдаёт таблицу квадратов.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\obj\Debug\net6.0\N и выдаёт таблицу квадратов.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\obj\Debug\net6.0\refint\N и выдаёт таблицу квадратов.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\obj\Debug\net6.0\N и выдаёт таблицу квадратов.pdb
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\obj\Debug\net6.0\N и выдаёт таблицу квадратов.genruntimeconfig.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\N и выдаёт таблицу квадратов\obj\Debug\net6.0\ref\N и выдаёт таблицу квадратов.dll

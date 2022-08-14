@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "N и выдаёт таблицу квадратов/1.0.0": {
+        "runtime": {
+          "N и выдаёт таблицу квадратов.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "N и выдаёт таблицу квадратов/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
