@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\bin\Debug\net6.0\простотак.exe
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\bin\Debug\net6.0\простотак.deps.json
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\bin\Debug\net6.0\простотак.runtimeconfig.json
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\bin\Debug\net6.0\простотак.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\bin\Debug\net6.0\простотак.pdb
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\obj\Debug\net6.0\простотак.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\obj\Debug\net6.0\простотак.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\obj\Debug\net6.0\простотак.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\obj\Debug\net6.0\простотак.AssemblyInfo.cs
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\obj\Debug\net6.0\простотак.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\obj\Debug\net6.0\простотак.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\obj\Debug\net6.0\refint\простотак.dll
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\obj\Debug\net6.0\простотак.pdb
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\obj\Debug\net6.0\простотак.genruntimeconfig.cache
+C:\Users\Александр\Documents\project\Seminar-Sea-Sharp\простотак\obj\Debug\net6.0\ref\простотак.dll
